@@ -108,12 +108,12 @@ body, .page-container {
 }
 
 .widget.links-widget-box, .widget.dashboard-widget-box {
-	border: 1px solid #714B6780;
+	border: 1px solid #4b716380;
 }
 
 .widget.links-widget-box .widget-head .widget-label .widget-title{
 	background-color: white;
-	color: #714B67 !important;
+	color: #4b7163 !important;
 }
 
 .widget-body .link-item{
@@ -172,17 +172,17 @@ a.onboard-spotlight .link-content:hover {
 }
 
 .form-control:focus, .form-control:hover{
-	box-shadow: 0 0 0 2px #714b6780 !important;
+	box-shadow: 0 0 0 2px #4b716380 !important;
 }
 
 .form-control:focus {
-	background-color: #714b6725;
+	background-color: #4b716325;
 }
 
 .frappe-control:not([data-fieldtype="MultiSelectPills"]):not([data-fieldtype="Table MultiSelect"]).has-error input:hover,
 .frappe-control:not([data-fieldtype="MultiSelectPills"]):not([data-fieldtype="Table MultiSelect"]).has-error input:focus
 {
-	box-shadow: 0 0 0 2px #eb909180 !important;
+	box-shadow: 0 0 0 2px #90ebe080 !important;
 }
 
 .frappe-control:not([data-fieldtype="MultiSelectPills"]):not([data-fieldtype="Table MultiSelect"]).has-error input{
@@ -198,7 +198,7 @@ option {
 }
 
 .grid-row-open{
-	box-shadow: 0 0 0 3px #714b67 !important;
+	box-shadow: 0 0 0 3px #4b7163 !important;
 }
 
 .awesomplete [role="option"]:hover,  .awesomplete li:hover{
@@ -221,12 +221,12 @@ input[type="checkbox"]:checked {
 
 .btn.btn-primary{
 	color: var(--text-btn-color);
-	border: solid 2px #714b67 !important;
+	border: solid 2px #4b7163 !important;
 }
 
 .btn.btn-primary:hover {
 	background: var(--btn-default-hover-bg) !important;
-	border: solid 2px #714b67 !important;
+	border: solid 2px #4b7163 !important;
 	color: var(--text-color);
   }
 
@@ -273,14 +273,14 @@ input[type="checkbox"]:checked {
 }
 
 .btn.btn-new-doc{
-	background-color: #714b67 !important;
+	background-color: #4b7163 !important;
 	color: var(--text-btn-color);
-	border: solid 2px #714b67 !important;
+	border: solid 2px #4b7163 !important;
 }
 
 .btn.btn-new-doc:hover{
 	background: var(--btn-default-hover-bg) !important;
-	border: solid 2px #714b67 !important;
+	border: solid 2px #4b7163 !important;
 	color: var(--text-color);
 }
 
