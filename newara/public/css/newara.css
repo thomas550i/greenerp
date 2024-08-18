@@ -9,7 +9,7 @@
 	--btn-default-hover-bg: white;
 	--sidebar-select-color: #017E8420;
 	--checkbox-gradient: linear-gradient(180deg, var(--btn-primary) -124.51%, var(--btn-primary) 100%);
-	--text-base: 14px;
+	--text-base: 13px;
 }
 
 /* login page */
@@ -67,7 +67,7 @@
 }
 
 #navbar-breadcrumbs li.disabled a {
-  color: var(--white-overlay-400) !important;
+  color: #ffffffc4 !important;
 }
 
 .nav-tabs{ 
@@ -125,9 +125,9 @@ body, .page-container {
 	height: 30px;
 }
 
-.onboard-spotlight {
+/* .onboard-spotlight {
 	color: var(--secondary) !important;
-}
+} */
 
 a.onboard-spotlight .link-content:hover {
 	color: var(--btn-secondary) !important;
